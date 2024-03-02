@@ -18,5 +18,4 @@ The performance of the models was evaluated using the F1 Score and Matthews’s 
 ## Results
 The project achieved promising results in identifying diseased patients, which is crucial for a diagnostic support system. Although the reduction of features led to a slight deterioration in performance, the benefits of feature selection, such as enhanced interpretability and reduced measurement costs, were considered acceptable.
 
-## Contact
-For any additional questions or comments, please contact Vincenzo Civale at [Your Email].
+
