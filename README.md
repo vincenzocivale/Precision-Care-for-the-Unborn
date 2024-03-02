@@ -1,5 +1,5 @@
 # Precision Care for the Unborn: A Fetal Health Study
-!./images/logo.png
+![logo image](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/vincenzocivale/Precision-Care-for-the-Unborn/blob/main/images/logo.png)
 ## Project Overview
 This project involves the development of a machine learning system to support the diagnosis of fetal patients. The goal is to address the global challenge of reducing fetal mortality rates, particularly in developing countries.
 
